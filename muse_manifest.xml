@@ -1,32 +1,28 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498305081962">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498305438007">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="team.css" crc="4294666839" ref="team"/>
-    <file name="index.css" crc="533564236" ref="index"/>
-    <file name="contact.css" crc="78134742" ref="contact"/>
+    <file name="index.css" crc="4190279332" ref="index"/>
+    <file name="contact.css" crc="3824562346" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team:contact"/>
-    <file name="museutils.js" crc="46400467" ref="index:team:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:team:contact"/>
-    <file name="museconfig.js" crc="4273287925" ref="index:team:contact"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:team:contact"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:team:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:team:contact"/>
-    <file name="require.js" crc="85721165" ref="index:team:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
+    <file name="museutils.js" crc="46400467" ref="index:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:contact"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
+    <file name="require.js" crc="85721165" ref="index:contact"/>
   </folder>
   <folder name="images">
     <file name="eingefuegtes bild 184x184.jpg" crc="4264377422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eingefuegtes bild 184x1842.jpg" crc="4264377422" seo="true" ref="team">
+    <file name="eingefuegtes bild 184x1842.jpg" crc="4264377422" seo="true" ref="contact">
       <caption webpage="team" alt=""/>
-    </file>
-    <file name="eingefuegtes bild 184x1843.jpg" crc="4264377422" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="482851575" seo="true" mt="1498304791513" redirect="true"/>
-  <file name="team.html" crc="4011322356" seo="true" mt="1498305070355" redirect="true"/>
-  <file name="contact.html" crc="3913579097" seo="true" mt="1498299101927" redirect="true"/>
+  <file name="index.html" crc="3776035919" seo="true" mt="1498305427768" redirect="true"/>
+  <file name="contact.html" crc="513255875" seo="true" mt="1498305390385" redirect="true"/>
 </manifest>
