@@ -18,4 +18,13 @@
       <image:loc>http://penthology.github.io/images/eingefuegtes%20bild%20184x1842.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://penthology.github.io/contact.html</loc>
+    <lastmod>2017-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://penthology.github.io/images/eingefuegtes%20bild%20184x1843.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>

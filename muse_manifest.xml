@@ -1,18 +1,19 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498298347214">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498299109007">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="team.css" crc="297027044" ref="team"/>
-    <file name="index.css" crc="411614993" ref="index"/>
+    <file name="team.css" crc="80263783" ref="team"/>
+    <file name="index.css" crc="3794897211" ref="index"/>
+    <file name="contact.css" crc="78134742" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team"/>
-    <file name="museutils.js" crc="46400467" ref="index:team"/>
-    <file name="whatinput.js" crc="86476730" ref="index:team"/>
-    <file name="museconfig.js" crc="4273287925" ref="index:team"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:team"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:team"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:team"/>
-    <file name="require.js" crc="85721165" ref="index:team"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team:contact"/>
+    <file name="museutils.js" crc="46400467" ref="index:team:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:team:contact"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:team:contact"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:team:contact"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:team:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:team:contact"/>
+    <file name="require.js" crc="85721165" ref="index:team:contact"/>
   </folder>
   <folder name="images">
     <file name="eingefuegtes bild 184x184.jpg" crc="4264377422" seo="true" ref="index">
@@ -21,7 +22,11 @@
     <file name="eingefuegtes bild 184x1842.jpg" crc="4264377422" seo="true" ref="team">
       <caption webpage="team" alt=""/>
     </file>
+    <file name="eingefuegtes bild 184x1843.jpg" crc="4264377422" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3857670431" seo="true" mt="1498298327796" redirect="true"/>
-  <file name="team.html" crc="107054491" seo="true" mt="1498298129556" redirect="true"/>
+  <file name="index.html" crc="337037518" seo="true" mt="1498298999588" redirect="true"/>
+  <file name="team.html" crc="502476525" seo="true" mt="1498298999587" redirect="true"/>
+  <file name="contact.html" crc="3913579097" seo="true" mt="1498299101927" redirect="true"/>
 </manifest>
