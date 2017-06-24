@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://penthology.github.io/images/space_flight_sky_stars_82970_1920x1080.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://penthology.github.io/images/eingefuegtes%20bild%20184x184.jpg</image:loc>
     </image:image>
   </url>
@@ -17,5 +14,8 @@
     <lastmod>2017-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://penthology.github.io/images/eingefuegtes%20bild%20184x1842.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
