@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498299109007">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498305081962">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="team.css" crc="80263783" ref="team"/>
-    <file name="index.css" crc="3794897211" ref="index"/>
+    <file name="team.css" crc="4294666839" ref="team"/>
+    <file name="index.css" crc="533564236" ref="index"/>
     <file name="contact.css" crc="78134742" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -26,7 +26,7 @@
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="337037518" seo="true" mt="1498298999588" redirect="true"/>
-  <file name="team.html" crc="502476525" seo="true" mt="1498298999587" redirect="true"/>
+  <file name="index.html" crc="482851575" seo="true" mt="1498304791513" redirect="true"/>
+  <file name="team.html" crc="4011322356" seo="true" mt="1498305070355" redirect="true"/>
   <file name="contact.html" crc="3913579097" seo="true" mt="1498299101927" redirect="true"/>
 </manifest>
