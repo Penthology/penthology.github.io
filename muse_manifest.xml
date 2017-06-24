@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498297984716">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="team.css" crc="4193191577" ref="team"/>
+    <file name="index.css" crc="175096011" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team"/>
+    <file name="museutils.js" crc="46400467" ref="index:team"/>
+    <file name="whatinput.js" crc="86476730" ref="index:team"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:team"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:team"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:team"/>
+    <file name="require.js" crc="85721165" ref="index:team"/>
+  </folder>
+  <folder name="images">
+    <file name="space_flight_sky_stars_82970_1920x1080.jpg" crc="3982087093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eingefuegtes bild 184x184.jpg" crc="4264377422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="396777091" seo="true" mt="1498297956731" redirect="true"/>
+  <file name="team.html" crc="3825400875" seo="true" mt="1498297877659" redirect="false"/>
+</manifest>
