@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498305849479">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="penthology.github.io" resolutions="1x" timestamp="1498307403589">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="416337322" ref="index"/>
+    <file name="index.css" crc="3932842995" ref="index"/>
     <file name="contact.css" crc="504079873" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -23,6 +23,6 @@
       <caption webpage="team" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="521779519" seo="true" mt="1498305843193" redirect="true"/>
+  <file name="index.html" crc="318477066" seo="true" mt="1498307104345" redirect="true"/>
   <file name="contact.html" crc="4149974577" seo="true" mt="1498305830665" redirect="true"/>
 </manifest>
